@@ -1,0 +1,13 @@
+1. Website Link
+https://sontranneugithub.github.io/Personal_Website/
+
+2. Styling & Customizations
+Below is a summary of all customizations applied to the website:
+
+Font: Used Google Fonts to import the "Raleway" font, giving the site a modern, clean look.
+Dark Theme: Set a dark background color (#121212) with white text for readability, creating a professional appearance.
+Justified Text: Applied text-align: justify to all paragraphs for better readability and alignment.
+Centered Layouts: Centered sections and images, with images set to responsive width and centered using margin: auto.
+Header and Footer Backgrounds: Used darker backgrounds (#333333 for the header, #1f1f1f for the footer) to visually separate content areas.
+Accent Color for Links: Styled links with a highlight color (#4CAF50) to make navigation intuitive and visually appealing.
+List Styling: Set lists to left alignment with padding for clarity, and limited the list width to enhance readability on different screen sizes.
